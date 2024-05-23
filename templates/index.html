@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/styles/index-style.css">
+    <title>EYC-Home</title>
+</head>
+<body>
+    <!-- Pagina principal, en el header va el logo y el menu de navegacion-->
+    <header>
+        <div class="container">
+            <a href="/" class="logo">
+                <img class="logo" src="../static/assets/images/Logo.png" alt="EYC">
+            </a>
+
+        </div>
+        <nav id="site-nav" class="site-nav">
+            <ul>
+                <li><a href="/"><i class="fa fa-home site-nav--icon"></i>Home</a></li>
+                <li><a href="/login"><i class="fa fa-info site-nav--icon"></i>iniciar Sesion</a></li>
+                <li><a href="/login"><i class="fa fa-pencil-alt site-nav--icon"></i>Registrarse</a></li>
+                <li><a href="/app"><i class="fa fa-dollar-sign site-nav--icon"></i>EYC-APP</a></li>
+                <li>
+                <form action="/logout" method="post">
+                    <button type="submit" id="logoutBtn">Cerrar sesión</button>
+                </form>
+            </li>
+            </ul>
+        </nav>
+        <div id="menu-toggle" class="menu-toggle" onClick="cambiarClase()">
+            <div class="hamburger"></div>
+        </div>
+    </header>
+    <main>
+        <section class="main-section">
+            <div class="main-content">
+                <div class="info">
+                    <h1>¡Bienvenido! Aquí encontrarás toda nuestra información.</h1>
+                </div>
+                <div class="content">
+                    <span>
+                        <i>Encontraras nuevas oportunidades de trabajo para poder seguir creciendo profesionalmente y dar a conocer tu trabajo.</i>
+                        <i>Somos un grupo de cuatro desarrolladores interesados en el futuro.
+                            Creamos esta página para encontrar el trabajo deseado que elevará tu carrera lo más alto posible.
+                        </i>
+                        <i>Hecho por:
+                            Julio Orellana, Sarah Estrada, Joel Nerio, René Abella.
+                        </i>
+                    </span>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer id="footer">
+        <div class="footer-content">
+            <span>&copy; 2024 EYC. Todos los derechos reservados.</span>
+        </div>
+    </footer>
+    <script src="../static/js/index-script.js"></script>
+
+</body>
+</html>

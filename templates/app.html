@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/styles/app-style.css">
+    <title>EYC</title>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul>
+            <li><a href="/">Inicio</a></li>
+            <!-- SECCION LOCAL PARA LAS BUSQUEDAS-->
+            <li><a href="/app">Buscar</a></li>
+            <!-- SECCION LOCAL PARA EL PERFIL DEL USUARIO-->
+             <li><a href="#developers">Desarolladores</a></li>
+            <!-- SECCION LOCAL PARA EL PERFIL DEL USUARIO-->
+            <li><a href="/profile">Perfil</a></li>
+            <!--AQUI SE AGREGA LA SECCION DE ESTADISTICAS DINAMICAMENTE-->
+            {% if admin %}
+            <li>
+                <a href="/analytics">Estadísticas</a>
+            </li>
+            {% endif %}
+            <!-- SECCION LOCAL PARA CERRAR SESION-->
+            <li>
+                <form action="/logout" method="post">
+                    <button type="submit" id="logoutBtn">Cerrar sesión</button>
+                </form>
+            </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="search-bar" id="search-bar">
+            <h1>Buscar trabajos</h1>
+            <form method="post">
+                <input type="text" id="searchInput" placeholder="Buscar Trabajos...">
+                <button type="submit" id="searchBtn">Buscar</button>
+                <button type="reset" id="resetBtn">Limpiar Busqueda</button>
+            </form>
+        </section>
+        <section id="search-results" class="hidden">
+            <h1>Resultados de la busqueda</h1>
+            <hr/>
+            <div class="search-results-content"></div>
+        </section>
+        
+        <section class="developers" id="developers">
+            <h1>Desarrolladores</h1>
+            <div class="slider-Developers">
+                <!-- Radio buttons for slider control -->
+                <input type="radio" name="slider" id="slide1" checked>
+                <input type="radio" name="slider" id="slide2">
+                <input type="radio" name="slider" id="slide3">
+                <input type="radio" name="slider" id="slide4">
+                
+                <div class="slider">
+                    <div class="slide developer" id="julio">
+                        <h2>Julio Orellana</h2>
+                        <p>Soy Julio Orellana, un desarrollador web full-stack. Me encanta aprender cosas nuevas y compartir conocimientos. Me gusta trabajar en equipo y siempre estoy dispuesto a ayudar a los demás. En mi tiempo libre me gusta leer, escuchar música y jugar videojuegos.
+                        </p>
+
+                    </div>
+                    <div class="slide developer" id="sarah">
+                        <h2>Sarah Estrada</h2>
+                        <p>Estudiante de Ingeniería en Sistemas Computacionales, me gusta aprender cosas nuevas y compartir conocimientos. Me gusta trabajar en equipo y siempre estoy dispuesta a ayudar a los demás. En mi tiempo libre me gusta leer, escuchar música y jugar videojuegos.
+                        </p>
+
+                    </div>
+                    <div class="slide developer" id="joel">
+                        <h2>Joel Nerio</h2>
+                        <p>Estudiante de Ingeniería en Sistemas Computacionales, me gusta aprender cosas nuevas y compartir conocimientos. Me gusta trabajar en equipo y siempre estoy dispuesto a ayudar a los demás. En mi tiempo libre me gusta leer, escuchar música y jugar videojuegos.
+                        </p>
+
+                    </div>
+                    <div class="slide developer" id="rene">
+                        <h2>René Abella</h2>
+                        <p>Estudiante de Ingeniería en Sistemas Computacionales, me gusta aprender cosas nuevas y compartir conocimientos. Me gusta trabajar en equipo y siempre estoy dispuesto a ayudar a los demás. En mi tiempo libre me gusta leer, escuchar música y jugar videojuegos.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer id="footer">
+        <div class="footer-content">
+            <span>&copy; 2024 EYC. Todos los derechos reservados.</span>
+        </div>
+    </footer>
+    <script src="../static/js/app.js"></script>
+</body>
+</html>

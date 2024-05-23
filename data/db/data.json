@@ -1,0 +1,605 @@
+{
+   "jobs" : [
+      {
+        "software" : [
+            {
+        "company" : "Lunchpad Tecnologies Inc",
+        "name" : "Python Developer",
+        "mode" : "Remoto",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url" : "https://www.linkedin.com/jobs/view/3778860065/?eBP=CwEAAAGPQQHEvk9vwyIIDARlZxBTX-qJlAmeollzIdbkURY3wylFfxdhi9iG_iJCrJu5AaC2oe1n36NznhDNYFzRANHFgUVgdtitr1CqIv7igoYpKLV_vFME5zF8T2x-KsxMIbPv7LbrHg0dJh6DK0lqBg8KuJO_7AjjF1SBEMinh9kePcqWd3Y0CwvW6AxhFRAn7y7DsCxXY-SJWZQWZF0Va-FpU9jYI97kYVoeIHnePTYrRr4YN3AuRCTL_4AcUNo-fkYJ-XTcl64gv6aXiOZyYasC9lNDd_e7XT9s0xrkBkwqL8LYfMaGdA9WjrEUaiYkqnMSdmq9ZwTMSF_gEFvBlTcsjatI1EMJYEjlwoDkhsRq8_V6H6WsCO1emluENhbJSXCtS_AzLNluKbfpxrGtisY-aTskVBXFAMXyV6nv0SKmdgkiyGuKQ42TKjFL_LwKWkEGzuYNIY7FgHilZMxIdaspdX5twexeJw&refId=0VmsB%2BG5alBR6ztGZX6D%2FA%3D%3D&trackingId=odOrbK6yt0JRLGZkwkjHHw%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "TELUS International Digital Solutions",
+        "name" : "Python Developer",
+        "mode" : "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Junior",
+        "url": "https://www.linkedin.com/jobs/view/3907127516/?eBP=CwEAAAGPQQHEvk-EKjmL7ro83TRceg1daDJZBLR9uvJ2Ti3AcQB3bYfjtxV4emm5C29dGDVxHgKCANay_M-fioiy5JT_6m8uS0Aifc9vZDVpEOt5-4_T8yvzNd0aLCVFFlIz6nNDqC58KhXzDc9PbrG2JRSyW4uD-nGwLQ_jGngh5r2A6Aanc05hdBGD8dZSs99f1JbQun9VNAbFwys_-RhPjtHeKQCbZlyuNsyjl71AmAzz6iSuJ9vrJmoWwnBRmkv5MzuYQF-w9heMh0hjdBST-vQo-hhE4bkyzkZdoNm3_8AGWmDy6z-WTQp1ZGBZVld480BWAe3afB0ouMp1P1LlEdua7ukS8sRQ5oFCXYAmeNKk8lXpuW04mfkEFqnxNJYxxqpyJFSUAh772psFz9jhpWN5WAu7xsALJiWZhFemOZa9HvcMOMEIloj40Zqk785ZkJD_4sEVB6-ScJBHpxesAnuHiJ0Nf4aBvA&refId=0VmsB%2BG5alBR6ztGZX6D%2FA%3D%3D&trackingId=vnheNhoIeBcJEtN%2BXT9aTw%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "Ericsson",
+        "name" : "Fullstack Developer",
+        "mode" : "Presencial",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3684085105/?eBP=CwEAAAGPQQHEvsUO0AoHJtWaDithMm_km-BHbglsiX9g_veajAnyh2ACoZKZT8_M2Np2R1TQEjwJGiDdsyRnrdpcOSQYFxn1aynLQU1kwgzRFvdGVbFOjChK1Am5tGoZm2OXbHlxq5o8cstdnETiXxucJlhfdfgOwW2QCVqJDm50u5YfZNYfLPlD7s73NM4nso4rc6ir-sO7w5mUBaDo_EW0M03FjP_wKrbqVGXAc7BrqP64ShvbQbFhNayKyyoEtsMOKGO27IC27A-tDba1swiAvRViqjz9jIEjxGYFJ79ff-AsirLTQpp2OnCO_OQ2WfkgDG15C-ENvc4OkNbWNigc9qGAQhrmnj4vnBlS_YgOQCfncyH4PKO-IX5unw6Asv_HQbHFrVwi9Qmkl78JnetOOZbRfUQKrruENI3q3HLdJra_aP5F1vmddsWDVVuG5ZU4Xjjd8Qrx-JsJzhjlFlOwpgtJ_GBuyJ48g9qJ&refId=0VmsB%2BG5alBR6ztGZX6D%2FA%3D%3D&trackingId=SALSWcZwquxRi24VFBj8%2BQ%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "Virtasant",
+        "name": "Software Engineer (Applications - Java/React)",
+        "mode": "Remoto",
+        "time": "Contrato",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3890812499/?eBP=CwEAAAGPQQHEvfyIy5MiEi5F2N-U8SpQaAaBtuBHwCwzUSnQPBVC2Jo4F2gqgB_OQ094wUAK9LZRy_x3i9r4AkFSdBF9q8oI8NrB8TPcPPATDhZ0cIR8JDm8OohSLh8ru-BOvPffU7S85ipfxqhAt0e_enNw5m1OyiJWn_FbcbixmQuMDeGl1z5Q-bz1DigkNLXO4sqMvD_Jz-hkPTYEfTlAaWv-bhhjv1uRL580N0LYXFd2MwoVJB2vd6Xiv9olneWAKKxrZAi9TNGLEz9080iv78G_FS9MpjapY412Dar8953DvyEqk5FjBaGOD-YhsbFnw9csIFi0vj9BT5-pvypAOL-izRI-6KfKaZgu8G81roobng9POJGcmtQnBqKMY4IVQpX7vA6xqCu4-wJPDcm8V97EGN-8nu-WFpeJye3pyVwH9_nZai-DETXsyraGm9rm0eTcRgBNjfcQcTvvNiNYJc7WdxsLEUHVfw&refId=0VmsB%2BG5alBR6ztGZX6D%2FA%3D%3D&trackingId=amV7iluYVVX1qkjqEyA4uA%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "Red Chapina",
+        "name": "Desarrollador de .NET",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Junior",
+        "url": "https://www.linkedin.com/jobs/view/3864050995/?eBP=CwEAAAGPQQHBAU_utPJgORXwb2ytJhtrNWIMgq6bdhm4DFFMndvKI_v5y8BXovDJ2Y5NYrfzUrT2tLAfhWZsHowO1DMnDoH_2R_jxQDrdYsc39iOpTWQPgz2REuvAbUEPV2fbeNl3VENev3vi7lTfI01gAohPED9Hl9KLQGD-OMqzeg4rxAZE_jnUW37f31jOqXzT6HjRsEa6FkklGQ2P0sb6zJWjzswSIpfzOhIQlV3n4RJCIDnUy8bzPvStwMROd7ydusI1BYxhJexuy--xSFfzVd9B7aeoww5tUkzOcmJKt4L0pnDET2K4blaE-cTIBgF0ZqvAfSu7Mtc-xnakd5MTfCHHizp_gv2g2pCRNvuX4xu_vWp4QRGnA3mSPIDUSyfqLjvbDmVmgbhatgvLyjvqulkW6_W-zl69iKocezzB5efFfZ5x3Nm6BtiSAAIZdBHX0v-oSE6vDwBGv03KftPVgvI4-jpJsn1-NQQREyvCWmn0G5oCwPv-Q&refId=9f23EgQ656TCFqmxchKgPQ%3D%3D&trackingId=mSefYWKFdOuDACPgAlrjEQ%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "Corporacion Lending",
+        "name": "Desarrollador de Aplicaciones Web ReactJS",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3868132190/?eBP=CwEAAAGPQQEU87YArJxNxQkzjYIuUYs9C7NHK8CDLMJ7uG_k1Al1Oq4Irr7hH5fa8oEE4MaNY4y07ZWalvS0G49g5JvGI46pji2cD4mwHGsjOD6h_PbGWKjmz2PJcx9d3e1BT2FvzVsNfrAWwMQtlR15PGEZaDhzUnKBsh_8HXFMChxKCx9kVvAOxJCfmb6CpAXj8CC9jLw5PiqkOb7Ohrn6ENhOSgzmxZwNmzSq53WcZhCLHgml6SzYV8gtATAxDkSeC1B_8dtUk_6jnM7luuHQQ85-hTvw1OLsH6qv-un6nMiFXNXJNuzXjpoxIKq6y3FTKGGqX8xR18w02LW-Xgy1KfB_RPvLvck6ByRzQnXiX8uTubd7TU1yVKjvMX-RPdp1ZlvWmJeRRsMzuHmOKX4NCVwvNqQs1jTpuk1pI24Tyc5U-fE2gQVxHv8UzVAYQyQpRMvtpstEpLDfd55An-8DM2Mgdr2RCqYjw6MMcF9TtMb06xexZ6PEtorf&refId=soqS802%2BDwWYFdrgpbxKFw%3D%3D&trackingId=kbWIDLfU2NSmjFJdvIu%2BDg%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "Tribal Worldwide Guatemala",
+        "name": "iOS Developer",
+        "mode": "Presencial",
+        "time": "Tiempo completo",
+        "level": "Junior",
+        "url": "https://www.linkedin.com/jobs/view/3795599411/?eBP=CwEAAAGPQQEU88hgu1icxki8KmCT26D34GDq5aor8jM6yT4eUc-NCITIfyiXjnMN8AQVKUXGH89ejByb5NZEdIL3wkgeF_9Tb1fBAmmc7GS3i9rXKfaHa4xxSJugCZShAnDwl1fucwdHzsP9Qm4qkeuSetfYkOV0u042zixkS-bBl5fzVN6UiX_fcwpdPiOufwMhvAMK5nIAWyiQIQbZ9cRoO_KpiqJnSbBL22hBGcxc-TO_Ps6FMm2TcCnVaKo5cbArJY2iLkXRB8FVHzBM98bMxWzERCQ1v5i-UmUrymVKobGbXOLnkbIs2lXp33BtZe_wepzCnxt7vTJKnHGgm77G2M4ytXXyhm7U241YnBB6aqtuqzP1ynooPKSwURQWFT2YXgCVZM7ftGuniNfedbVKDTWQ3UrbN3VeSCdjFYq5FK7tFw01iwjFX0qP_fK_X3pfwC4mKkOjlSRnngbW2UDURJA9LyKcNw45px2YGIe9USMetEI&refId=soqS802%2BDwWYFdrgpbxKFw%3D%3D&trackingId=feiLawFkcgk9D3AVRarPuQ%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "PriceSmart",
+        "name": "Software Engineer",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3910097558/?eBP=CwEAAAGPQQHEvs_0iQttLDpIrNflpDbK_wsfo4VUVICA5_HulxicrrHQPWtpUWppoDu4OWu8WdiS1tpC8gqb2r_NInGJ0G91u8OhoK5K5IkjPg_dqgx0Vr1WrODO8Y7sGt44Bp7c553W--n3_F2oWwonOklVK5NCmGY3A3Z6kVSezjmaWhefICidT89FNRwgHIKNeOMj8ze043XhWqAW2fvUDYyWCxkPIqCr6kYSfneaPPf04Eik-TK6u5YPu1XaeIPqz1H_RorqkOTUe7UQrZKVu0hosLhgkzBeWYJNWbU0nclimYZ6SY8ZIQurFYN6kjhtL7YUJqbObHxka8UdbZhMrztYpVIjX_Vhhlja8OHIzg8rUoRRt4hn0peBPXNF1YAQLxgv16OfSNkwUbvQ4JjB2UxtsaBwKUiC-RighnPu1ugPaCc0PEFbEalhkGDcPKlv3i9S-gmVxeD8LYeVtWFu202MlFmJtNJ1CVavYY0&refId=0VmsB%2BG5alBR6ztGZX6D%2FA%3D%3D&trackingId=rQbcOFaqUVRS8WMPgUhsFA%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "BAC",
+        "name": "Analista Programador DSA",
+        "mode": "Presencial",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3891616708/?eBP=CwEAAAGPQQHEvp8YO8RllSuKeT2OxX1GRDMo4qx1GUDwnA8Tp9pWcyfHCGFHIN0HCDUmlDPAX9moIUqH4PgtYmftxmDDzZhOaGin69l7Dkip7KiswehuHlT31pXLG-I4LreYVWMnHp67WU7DlnhFcX8FGEpyvYZ61-EB0z7zbZU2ksFsh40d8YWYY5dULdKs7miIBU46RQCqRpilcwKXpNGr-d-NTSglsvmydARTludbT7mQsZa3a0YpKFbetpkrWdmbBJe-8nXidXDiVwfaWd-Y0hEn5qZ0Ds22g3809B-NAZY1LCjM1Vgrlu9cT7ItvW1bOs5hnH0zBfZnzYXCly8BhgVmweLnOOCgNtuRz1MwegnxT3MmVDZwqogxCh4VWPcMYjW29AR1lHYWNkMncaPHgibfggKqiP_wmyDramAQYvfhb7GmkL7vXVEMTqEVrXprVjxFOMzVbJVK52pLTolux4xNuyELSqer2w&refId=0VmsB%2BG5alBR6ztGZX6D%2FA%3D%3D&trackingId=1EndNAy996pdcmFDhi8lyw%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "TELUS International",
+        "name": "Micro Frontend Fullstack Developer | Digital Solutions",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3847777306/?eBP=CwEAAAGPQQIYWxuTiHyMz0uzSK2KN3rKN0yXjn5-esTdONLjL0rdbvHl3JzKlzEUJca7ycHo5scHRxQmWT7EZEn_ncLaTY6Tv6929H3zsomBkfUDS81DBo4BE8LCkPEJAaMUVJPowawWYKMoz36-c9N8vU6XrIvHQOCQXXdd86WLbCemq8Ndkk1uCgiQDQ4kfSMyd2YwGjW9arL4YmIEX5GcIPZVTeoJyDSTCZ-zK6Hjh6X3DCGU1ij5XR5gEuMh7U0y7fYom-BTgC2k40gkQryrFjrRONA1Gveaq_3kjyErBuH-tj11BLq4cTtCIocIgNcCMFRpUCMjyXtsr65HEP6GUeRntUyukb5_lmRS9qfiX37dUNchMwsG8Pcqj5HxvcRwOyVrbKpnZzWeyZd9x2Bfhi2GUXlTfNO3P4tVPBZYm01Nv9LkijfdeY3gLZ_Oa7TASdsbCkVIcSb9LKlYB6xl-TEGrw&refId=PjJFlfFDb9frkigRQ1tbCg%3D%3D&trackingId=EJBRbtNzg%2BbCzEYuPzIWKw%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "TELUS International",
+        "name": "Backend Java Developer | Digital Solutions",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3835742744/?eBP=CwEAAAGPQQIYW49ZIujv2On7bqU2pnDCNjq_6BkRs7IEjPHl3pUENO7FFkDpz7GQ-XUTkfWOl3r8kIKOf6wzzOUvbgfU2K2XJJVDe14BwhIkI9z8J7GMYuvXXRvhgbbOK8Qt0QtD5gA8EKQUawBxvPVZqsU4O5mIUfD4O0_XYmdeNSs0pm7D7yrAQZJEBweVEqSjUtoVgHNmsUdf_-T6cJLokrRk9tmhNBepi0QwX_4Ageac6CDMHojVo09ff7dc_S6ey0nzN12gqR7v-Qd9uI5dGE1vuIJHZqSjPga0l7rnn4rGLiukuzYh_afjT51hEumrEH1V-dTzZu0hi-PLttvmbr7QNFqULfjP3EkDOvIgXnZmDmnX6l9apl96LuZki8olWyxa7nm-XjGGGzDIK7Gr7dlpj0VfkyyKr1WY30aWv9KAXtjdHQaFcEnCuXsh7KgkvRO_VAks4lcZO9iGVwRJsSIaV1ZI&refId=PjJFlfFDb9frkigRQ1tbCg%3D%3D&trackingId=H8mQjs1mvGJ7hfdm4g25Jg%3D%3D&trk=flagship3_search_srp_jobs#HYM"
+        },
+        {
+        "company" : "TELUS International Digital Solutions",
+        "name": "Sr. Full Stack Frontend Developer",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Senior",
+        "url": "https://www.linkedin.com/jobs/view/3863968875/?eBP=CwEAAAGPQQIYW8mNS0OE2Odhs724bmcjeP2uQGDl8lXXOgnt-s19LhUITWm5K2HRapXpERRdFK3OEHh3Atm9mDO723EvMoTyr1OCLKjOm7YOsQJFfeXYQMyXIyxVi5xR1_t34M6E5fBh5iNT4texj7gS1Gd-0p_vT7usBCY3zLmUaHJM3PyuKw7N3z0Vv0EgUniMNCd7So8tDC1Vnq0ycivS7pBHe-RoSPYVL66ry1uAki0N2loduZqoHYo2QyyLBMMJLU-66FJe5VbUyshVQZduzRaq2UJYQw6Fd_9dROGOGPu-1amqZIwXGhS5sDIliT4Juqwg8zJ_VVrpdz15bTQrYF23d3_YqmAPOiF6Os-HKoei0cumI8MX2-Vk-DyN524XjM6ktMvXPFkVtqytUjJxbyZoMbY650TsleWLaMeVasnGBhS7dai0HNOlFtndinQs7uHKwRdUDpJ0NFlDv4luN3f51fU8&refId=PjJFlfFDb9frkigRQ1tbCg%3D%3D&trackingId=uJeXVwh9LZvrM5DZTbqndQ%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "TELUS International",
+        "name": "Java Backend",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3849028689/?eBP=CwEAAAGPQQIYW55ZYAf49nOlZM9vSk-DvoJihh-TWsOpQJOAxlfdYHbXKBm6kWTPivRGGq-FP3szkk5ru_TWcxViTKfMrO13dQcA9K_lFEy0OnkGsZZEk9RVIUhnA6jl1ChBDcU1QSiJTLfLLEX8pe90eofUxqJzgSnsTPXlAEGtlaPalvsxtP21clTDlJd3d-r_VYUlwhE0pJ2ecrZmH9lINvFZ8ZQzqEUcsdVjAREDaH4ismeMR2bFygMi7R81uWeBldtwIdBPGfGZIYc-PJOw_YyuV2pSeaHzZ7onBqe6MrMTpBLIq-KXA8cO052MiULVwsT7cQg4COGWtiih5Ir9DhKJC3mt927bM_4-lw0f3fMLQSi4zq4lCnUcfJj1u3cmoN9v_xtIFM74tQB5U7pZYitVAlGtBlVWUXz10_W5fDoaZOH3Iw3REgeaOb7xPBuBsWteZ0GReobHGHcsB_5_B8qbMzlH&refId=PjJFlfFDb9frkigRQ1tbCg%3D%3D&trackingId=rxEjBMX2XhxMRtA67ckNmA%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company" : "TELUS International",
+        "name": "Java Fullstack Developer | Digital Solutions",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3781934449/?eBP=CwEAAAGPQQIYW-gX65ENi7Gjw16zat7yV89wp5vdMBqBFYOl2h4QGisOQwYNzZdO8Hxh2RlCeWkfvB9mzQi0zscHgqX87_cWfyEvT5ZqZQN0p3DW3SEuFPjbuPe78O_XWYgT0fYsyRzKaNlgcoYOuAVuKYMAfFT339C233vf8Cpq5p10EYUwl-mtga47SWcJJsMzIp8kPEUoYOtZLbTw1nYTT-QONv8lGPzMWcDuptZfVES3bx7wDyraBZCrwO35-ixoBILWKYnq8lj60rvRaR1eS0VJEVO1-cPR4RucyW-OZ1AMP2lNvgNH3QGF2LOd8gPHY5qFRFfcz8I9_Lxeg0BXuSB0dldLSbgGp9MkOfRl7mhKk6V2yegXxluiaqGZ74hLVizhY5EHMeyFzaVteHC1aDcaUADyqxLXoFEuraJe7HzGRLWdpapOSeiDrWJ3u2GUgqNM-s16iXImKLNuDBaPHTpeiwqU&refId=PjJFlfFDb9frkigRQ1tbCg%3D%3D&trackingId=CYlfp5WlrU%2F6PU0FOXOcEg%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company":"BAC",
+        "name": "Ingeniero de automatización",
+        "mode": "Presencial",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3909011516/?eBP=CwEAAAGPQQIYW3HS6NJEus-EXtGppkYBkCpQxKYAjtSXX5m9D0Zulw5Pv7rRoZbb1FwFZSSWV9JKbibh7g5WCM4jzqwD_aG6hTxKHYGJfPWAWzXpi86RuXKJpVfSID-otaUJohXZmyCsoRRLxFZxFMWdZg40j2OFPlBRogYhuW5m0TnNUIsJ-10USHIJSxfC_sy6w4fa46KWXXMl9yp89XKu0eCDWzvGbO45uZF1FvhXN-XnNYLVLxLwNyEdg_d0YIP0iYqdGouFAJultfXQX1Gowsk2Vgk-FBAGrNuVKxzORVFEWyrNo5LfbtjO5ZpoIYBYr9NmZT8K0aA9dblFUneEg4iVnJ2dTVwIFL0OxVScld_iF6GgRJjlNMFewTPW9hhxWcx3CJprbn0pv6DXPU_Ft4-cxkHW4vnisi_LzWDVZvFOkhIJTJorrHJLWbIfWwz7-rWD-Jpd13j_Me5foyasOvGPcVJt0fs&refId=PjJFlfFDb9frkigRQ1tbCg%3D%3D&trackingId=VdyCFryifhnII0cr0NLqoQ%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company": "QiBit",
+        "name": "Arquitecto de software",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3819430584/?eBP=CwEAAAGPQQIYXIvaNkOcS8pzfG6iPtqggBdjeu519PorVrRGXAZOXaEW92QDXurR3w-V7gW2Daii1IWBYcmnjKS_1QG1re6YtB9HgxWmo4sWBnFYxRBBoE60tMs7IfJLzMX6E6rWjHkgoi6Z9WNwlFMAIVNo6YQbYQdiqBXEKzudHNBgnt7OqpjNyZSPJkwTIUJbWe6RGhUKOA31ljeiKT0M6HbWR0-ueRGM24UsqjEL82ao27WBhWKCoofdj6IH720XBcqwHkNPOfa_7_UXFuwW8oB6X_0WT8lBVtBBA8JcpLI_i-0kMEghOsgi3AHrx-yNpp9OWiG3P4FRi_6O2ArY-V0RMt33YwynHm9TK0DtH5Bkte_GVC2_d65wtj93Rd8lpqJAypPbMacvNO8172z1AvSgA6WaCLpNlQuwB7H-j4qTaVzz3NzpdPQdhgyf2NgV0i6ZTfqRdEj0vGEOzknssTCg87sXclI&refId=PjJFlfFDb9frkigRQ1tbCg%3D%3D&trackingId=SPMRsZEBborus0jE%2BN9GMA%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company": "Millicom (Tigo)",
+        "name": "Cibersecurity Senior Specialist",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3903431154/?eBP=CwEAAAGPQQIYXOH__yRrJ2D4xYuXgjyxNWu14Oa9wGIsHH17UMIcZwJYFek1AaY08Zhs25k4EgFaRJjTm4Ymibu9XnS6JcjnSGwphVM99kwDlmExGHG7O_DtOHgh4NclUtTHuRdF7damPj3Zk0zol0as-wSpKPqQ9GTJUfRpn8V_sD-g4itKb1SO3smtaQttGhr3derBlG8lXE-Li8q66GLuiqGIvrK22tDZALmfDNVpue0dpXgpX5SDhLqMY4Rjao42uSA-515TQrZoHmTF8WDpG7LD9Aw6kdegwQaoaDEUqoHP6PkidIgissztniQNfmbcGqF5hxfPHgtyreMCT1VyAMPmJBnEP3fhV1b1WgL3YVWtZ3pNjq4OHpFZUBK1YOB5mqXzjBu2NlaAtsyhtwP24HAx_P8zwJEWxD3N1q5ymtl8vRyIO6R8hNUJcoJGaiqj81IJunB57OCMMdrND6_bNKkZa7g7cDg&refId=PjJFlfFDb9frkigRQ1tbCg%3D%3D&trackingId=a5qq7kPq7pORZGsODN3WsQ%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+        "company": "TELUS International Digital Solutions",
+        "name": "Back End Developer",
+        "mode": "Hibrido",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/view/3885233713/?eBP=CwEAAAGPQQIYXOwl6dTwNk39Z8rZR4ImvlaSOzPxufKxZhxgzov8C8iaPGC09UjTAq5hU3ESxtDRANnGaIdw73qVb7xVZ2Flrwx-Bo5PYs9dCHit7q6iMZapAQGoPqcOAdvraPJ93AO2-QQNzOenT1ChUJGUwb3e8GtXbeebZ6vd_fn1cgfeHcz7UruTcC9Sxck3WKHSE1OEQTzAOz7o3fa871mKH1ZAXZ1BWGbzoQ2pBG97D4aC5gwdxTS4fllEzMOC19akPom6V_PIi12jhXJPo4UQUB24xCBwuCY1ceTYvJOUMEds89cf4App9PUyPA6GHlaVVtdaM7FLNLcfy6J6Ep61a0ic43Fzl5w8pHhasvwU5_aUncGJX0kU-M460n8pI3dpo0ocB2evuT2LqvX8TwMmUZZ15pWULmcp5HCc2syr79y3MdsGbVcS0pc25lX1YWjJyzrTcdfkhawzzfaRti2WJu9d97A&refId=PjJFlfFDb9frkigRQ1tbCg%3D%3D&trackingId=YRijtUYoblG0UR8uBRkHNQ%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+            "company": "Transsion",
+            "name": "Mobile Test Engineer",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/view/3904295954/?eBP=CwEAAAGPQQIYXFLmh14ud7uiwOyGhiQB2OiEumQGCBc110uXE5ABpw5bN-ilqkDajK3ZP-iSZhRbhWe6jfZnnUNh8ZjB8d8Rv3qhlhqqK8fEbKHQyB3O56ForsipTV1DgZhkMQOswcuvvqm-uNpiePOtP5cf2ynA3G4ZkJBWo-Jj0uBCIzaWaA0wBKe0uTKap2bott4m8JcfRhsdQxFKp-_Y852GFjPEqplv83Wk96vZo26KuYLiuXAzSlrs6kQTy7FpoDjnBKsMOWecnHiE1YJKIbuOCgAaWMn3_mzeXhnuVl0AteY-Zgb2CsbR-Mv7Jep_pCjgpq6bk6y_Hw31BiwDXo6fE9GkqjENYrbckgRmnjBPPi0ZTJIv4JRaM5ded4MpmGaap09uPssnhLEvPDBEwWboStUewJ-TF0WuC4-kn0iD4GQVtyVd3xtcAJIKJWwUjROcaMGXJt-Vxh2Z1bgYOL6KUciQ&refId=PjJFlfFDb9frkigRQ1tbCg%3D%3D&trackingId=DKSt5JQwEtjO94jPQ%2BeAOw%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+            "company": "Crossover",
+            "name": "Software Sales Specialist, IgniteTech (Remote) - $100,000/year USD",
+            "mode": "Remoto",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/view/3912813313/?eBP=CwEAAAGPQTCw1g9SMGRhMnzeFJpTBffUrN0yvXwP2Bk7nY5vHXSvujzxSUZ3LjalN_mR09QMpl1omoU8sp9kHiEmiF9U9ZHbUEUxWhFXFXY_agkjmBbc7oIeKwDXjpr5YFrvG4F4wSLNcy42eS_ZzYfoGoO0vgghbcMFpbCzUm5ZtRwj2AlAj-ySEbPgajZ_Me5nPYAdGWWOg6yRG6DvZXyZTSHHugIusjnF9pJRA25i-Xia5ixUY9H3Z1lbA7F9Qp031Q6VWqvSXCtRttFZWvzIYHSwdIoRWhyP-e7v_eu1cpSXLKxDHiumOoFhilUfwJep1rOrVu0H5U7F2ZTqT4zW-tz43NU5GnS-jlf79wiJgpkAb4k9uIXHy5YNeC6win10lPfGeZcnzi0w5FtSFeWOn5EoUqQTCvBiAD626c1kmr2oU37YT0SgSFhhpt9s6KnKBxzkqdDXkZpG13FsnzaxH3CH0ZX1l2A&refId=iSnS5J0cjsSG3p0Gd1TtTg%3D%3D&trackingId=QpRv4r4KwjzSIbf%2BUpx91Q%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+            "company":"BAC",
+            "name": "Especialista de Ciberseguridad",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/view/3844618223/?eBP=CwEAAAGPQTCw1vEIAdlSlFmK-bJOWJZlUfNsb6ZQqJqew9L-DQvn_u6BObMbuNcpIPAZBqQY29KR5S-v0yLCibJxUi0Us9z04IwLbz8fbBixddySmA8Zxnk4UvP28hTqW9sccL70caPyPHeOxxLuLkRJ3GLfxdJ9QY1ckHs_zrPwhg0BLShABIxuKdSR2SRc4vDD56chx8ohPy24Aqcq0RlN2NCowHalTd79AXsvVHamqLYOATNkig2JHUg9pCCLa2oIwhG90SyTwSVFzlrXoZFXqEwjmO2PKs3isu1n8SY5vd9pmuk99dCA9yOepuFlvK6CaHQDs-eVZ49dpYM9vMG2UM4mN4YqfbFbRXfuaYvZhBVAdELFU6SCKOWvyhCAxoqbi33gcL5bpIp76BX4m2hJmBezKBhfvWOPdoa8iILLStx5xFpHCXPbafD75IF_Piv4njNi24owbEk5xHQ_J0z8iRF232EBTSA8iA&refId=iSnS5J0cjsSG3p0Gd1TtTg%3D%3D&trackingId=rog%2FS9cuE7R3loi5uS0j2A%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+            "company": "Guatex Inc",
+            "name": "Programador Jr",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/view/3914695727/?eBP=CwEAAAGPQTCw1qbGQGCS1nk2pZtVM5V2qns2yrctrvCirsSXbOLMf9VYtDPJzvM83Wcjza4TVAy7xdxpQMU_E6ErhwiUvQyjoywbsjg94jyk5j1IwAVQv3yR1JTlT8-9IDC6KHEJFxDrgui44ODbAquTk3N3wuSz_K4y799Dw7wKXJ42sM8cuGrmJHSjzj4mLW2WG_0no9UhR6o7MQ5uITrVbjBtl2-9-_PUsOh97Nbqrlysc2sMDtr2Ysq7honrDhcwZU2pN5sp8IBeoQ96XlLvP80beeSZtBh-GwBDS59J8c-UaXnAPiaucqQCPWyDaESm8xNATLrgcXQRRwCBfVJYKQaM7IfHw28eSNEpOpX0MS7_drw6yGjSbs7irIJfiIg8outi8o5iWcmV_91ncS-4Us3doi_-465K7Hg2zIBqVyRUFg5h3OIIZ4knqBh1BQw&refId=iSnS5J0cjsSG3p0Gd1TtTg%3D%3D&trackingId=tkZp0XKbw5rPfYAeyRaCoQ%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+            "company": "RESEL S.A.",
+            "name": "Programador Junior",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/view/3840988292/?eBP=CwEAAAGPQTCw1zZFQuxGQ8dbwHiW1Uwf40KixyUHIWOITVaPa4lFBkbzGHroHGWaGB3c8Xe3n01JRsadQBlzC9Ie5KHI1ZgAFkPpMPMHqzrpEtEXfuymCbv147pQJloC_3mKNBzP8A3Q23lOHV_val8P4KVeHNtqsGlnMNFnkdq5jM2XqOMe9xQ8GwYKIGh8CkTUNZ9YRXWIBZvYa86Vra0BzgxQjMt_UVVt_dVntRtsyLxzmZ_nmePxT82rCMfH9CRhWjHFreMgm4XUQlkRg66Z1gFNyxGp7n2g-28-GsDr5ahhtTfmW9BCxKW-u6DZ_SqGVCQFLvPnCxwUHwCw8GLBxyP8FnbdVAPBteVYetuuwUjRaP5XJvhJVwi6jFBC8s6BrRIvCuW1LRkg9RCAhhe_-jj6K96ZTaa9mIlKPg&refId=iSnS5J0cjsSG3p0Gd1TtTg%3D%3D&trackingId=9pzHAlk4Atnnj8LjC4MGSQ%3D%3D&trk=flagship3_search_srp_jobs"
+        },
+        {
+            "company": "TELUS International Digital Solutions",
+            "name": "Full Stack Engineer",
+            "mode": "Hibrido",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/view/3885096920/?eBP=CwEAAAGPQQHEvgeJQ_owY60i0LhZkNTQjbcLYOhPLRhzc7-4JrOw5VJVB-b0WGvmdoGFL0U6tFSZC_G1R9YEq33ZwQEWvHFmlDC-v7x_HPocJ_kv7zooMRClfwAls3rv_CoJrQ_82hTha_5aW59CNYRB2wPz8aI2tCfG5fpEeUsNCAyfBAXOLDR0EK3GQbOOtA1DDBlrQQv7UbpDk1WLfuDAxwyVQeNZRF8P25MSYRBbzvoUcZZCNNpJmD98m4mmqWccmu5V6u0yWggR-ZhaLqRnNelwhxcd3Hu3mTbjgxkqnN3IjuEvNMqmZNelG3Hd023fEMaGLBLGvbhhWQs1NVDEJvGFo6Pdp0c9iSZQ9Kd_NNP0fgnPN4ypJalmTVivubrE46pXNtKh-emjuayHnkjs6jYX4GIkrz8CNIB5D6lRisCzTIaWeU24WimlJ7epeRbEvNY5A6PRp99XKcDl9GgB8mVibTE0q4-i8w&refId=0VmsB%2BG5alBR6ztGZX6D%2FA%3D%3D&trackingId=Ci8v2qEKwRHithh0pGy9uQ%3D%3D&trk=flagship3_search_srp_jobs"
+        }
+    ],
+
+    "arquitectura" :[
+        {
+        "company" : "Ocal S.A.",
+        "name": "Arquitecto",
+        "mode": "Presencial",
+        "time": "Tiempo completo",
+        "level": "Junior",
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=3901002534&geoId=100877388&keywords=arquitecto&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+        "company" : "Banco GyT Continental",
+        "name": "ARQUITECTO SER",
+        "mode": "Presencial",
+        "time": "Tiempo completo",
+        "level": "Mid-Senior",
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=3911511140&geoId=100877388&keywords=arquitecto&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "STT Group",
+            "name": "Arquitecto Junior de Proyecto / Dibujante",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3891211636&geoId=100877388&keywords=arquitecto&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "ETH Guatemala",
+            "name": "Arquitectos recién graduados",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3904421440&geoId=100877388&keywords=arquitecto&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "RV4",
+            "name": "Gerente de Calidad (Arquitecto o Ing. Civil) - Desarrollo Inmobiliario",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3914639250&geoId=100877388&keywords=arquitecto&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true&start=25"
+        }
+    ],
+
+    "ingenieria": [
+        {
+        "company" : "Staffing Solutions Group",
+        "name": "Ingeniero Civil - Diseñador",
+        "mode": "Presencial",
+        "time": "Tiempo completo",
+        "level": "Junior",
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=3908730969&geoId=100877388&keywords=ingeniero%20civil&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company":"Gisystems",
+            "name": "Ingenieros Civiles",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3909253472&geoId=100877388&keywords=ingeniero%20civil&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "Industria Metalica",
+            "name": "Ing. Civil JR. (asistente de Jefe de proyectos Telecom)",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3827015973&geoId=100877388&keywords=ingeniero%20civil&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "APSA",
+            "name": "Ingeniero Industrial",
+            "mode": "Hibrido",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3879962088&geoId=100877388&keywords=ingeniero%20industrial&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "HR CENTER GUATEMALA",
+            "name": "Ingeniero Industrial",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3917119251&geoId=100877388&keywords=ingeniero%20industrial&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "EEP",
+            "name": "Ingeniero Mecánico",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3800607089&geoId=100877388&keywords=ingeniero%20industrial&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "Red Volution",
+            "name": "Ingeniero Electromecanico",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3884694672&geoId=100877388&keywords=ingeniero%20industrial&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company":"Eficacia Mercadeo y Ventas",
+            "name": "Ingeniero electromecánico",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3888917391&geoId=100877388&keywords=ingeniero%20industrial&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "Asesoria Gerencial",
+            "name": "Ingeniero Químico laboratorista",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3838677794&geoId=100877388&keywords=ingeniero%20quimico&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "Ferrmuebles S.A.",
+            "name": "Ingeniero Químico - Ferremuebles S.A.",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3901556711&geoId=100877388&keywords=ingeniero%20quimico&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        },
+        {
+            "company": "CPO Consulting",
+            "name": "Ingeniero Químico",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3862482988&geoId=100877388&keywords=ingeniero%20quimico&location=Guatemala&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true"
+        }
+    ],
+    "rrhh": [
+        {
+            "company": "IntouchCX",
+            "name": "Recruiter",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3905912524&geoId=100877388&keywords=recruiter&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Talentus",
+            "name": "IT Recruiter",
+            "mode": "Remoto",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3913872854&geoId=100877388&keywords=recruiter&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Coastline Equity",
+            "name": "HR Recruiter",
+            "mode": "Remoto",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3913689193&geoId=100877388&keywords=recruiter&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Walmart",
+            "name": "Reclutador Junior Oriente",
+            "mode": "Hibrido",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3908742763&geoId=100877388&keywords=recruiter&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+         "company": "Synapse",
+         "name": "Sr. Technical Recruiter",
+         "mode": "Remoto",
+        "time": "Tiempo completo",
+        "level": "Senior",  
+        "url": "https://www.linkedin.com/jobs/search/?currentJobId=3772652622&geoId=100877388&keywords=recruiter&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Right Balance",
+            "name": "Senior Technical Recruiter",
+            "mode": "Remoto",
+            "time": "Tiempo completo",
+            "level": "Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3880561436&geoId=100877388&keywords=recruiter&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Eficacia Mercadeo y Ventas",
+            "name": "Reclutadora para el área de Recursos Humanos",
+            "mode": "Hibrido",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3865828048&geoId=100877388&keywords=recruiter&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Super Evil Megacorp",
+            "name": "Senior Recruiter",
+            "mode": "Remoto",
+            "time": "Tiempo completo",
+            "level": "Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3914418494&geoId=100877388&keywords=recruiter&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Megapaca",
+            "name": "Reclutador Carretera a El Salvador",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3853242585&geoId=100877388&keywords=recruiter&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Universidad InterNaciones",
+            "name": "Profesor de Psicología",
+            "mode": "Remoto",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3907689287&geoId=100877388&keywords=profesor&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Instituto Guatemalteco Americano - IGA",
+            "name": "Docente de Matemática",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3917036867&geoId=100877388&keywords=profesor&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Smart Fit",
+            "name": "Profesor Fitness 1/2 Tiempo",
+            "mode": "Presencial",
+            "time": "Medio tiempo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3911522516&geoId=100877388&keywords=profesor&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Colegio Mayaland",
+            "name": "CATEDRÁTICO DE COMUNICACIÓN, LENGUAJE Y LITERATURA",
+            "mode": "Hibrido",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3903395911&geoId=100877388&keywords=profesor&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        }
+    ],
+    "medicina": [
+        {
+            "company": "Blue Medical Guatemala",
+            "name": "Cardiólogo",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Especialista",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3909811906&geoId=100877388&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Blue Medical Guatemala",
+            "name": "Médico Endocrinólogo",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Especialista",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3909696601&geoId=100877388&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Blue Medical Guatemala",
+            "name": "Traumatólogo por llamada",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Especialista",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3911269669&geoId=100877388&keywords=medico&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Blue Medical Guatemala",
+            "name": "Médico Internista",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Semi-Especialista",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3909841109&geoId=100877388&keywords=medico&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "CENTRO INTEGRAL DE ATENCIÓN MÉDICA - CIAM",
+            "name": "Médico Residente",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Residente",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3908572053&geoId=100877388&keywords=medico&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Outsourcing",
+            "name": "Capacitador Médico /zona 10",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3906134559&geoId=100877388&keywords=medico&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "ASISTENCIA GYT",
+            "name": "MEDICO DE URGENCIAS",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3908571996&geoId=100877388&keywords=medico&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        }
+    ],
+    "marketing": [
+        {
+            "company": "DashvaNyc",
+            "name": "Virtual Assistant",
+            "mode": "Remoto",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3834470786&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Lunchpad Tecnologies Inc",
+            "name": "Search Engine Engineer",
+            "mode": "Remoto",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3813111802&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Influmedia CA",
+            "name": "Ejecutiv@ ventas Influencer marketing",
+            "mode": "Hibrido",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3902270961&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Endvant",
+            "name": "Business Manager",
+            "mode": "Remoto",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3911865565&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "BAC",
+            "name": "Coordinador de Estrategia Digital",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3911316379&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Outliant",
+            "name": "SEO Specialist",
+            "mode": "Remoto",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3881345796&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "BAC",
+            "name": "Coordinador de Marketing Digital",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3914869336&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "BAC",
+            "name": "Especialista de Marketing Digital",
+            "mode": "Hibrido",
+            "time": "Tiempo completo",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3891510741&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Xiaomi Technology",
+            "name": "Marketing Campaign Coordinator",
+            "mode": "Presencial",
+            "time": "Tiempo completo",
+            "level": "Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3905199816&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Holafly",
+            "name": "Jr. Content Marketing Specialist",
+            "mode": "Remoto",
+            "time":"Contrato",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3909444829&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "Holafly",
+            "name": "Email Marketing Specialist",
+            "mode": "Remoto",
+            "time": "Contrato",
+            "level": "Mid-Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3909985326&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        },
+        {
+            "company": "ISS Corp",
+            "name": "Social Media",
+            "mode":"Presencial",
+            "time": "Tiempo completo",
+            "level": "Junior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3912104323&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true&start=50"
+        },
+        {
+            "company": "LaTeam Partners",
+            "name": "Lead Generation Specialist",
+            "mode": "Remoto",
+            "time": "Contrato",
+            "level": "Senior",
+            "url": "https://www.linkedin.com/jobs/search/?currentJobId=3903325088&geoId=100877388&keywords=SEO&location=Guatemala&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true&start=50"
+        }
+    ]
+
+    }
+   ] 
+}

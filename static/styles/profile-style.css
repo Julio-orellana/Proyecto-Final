@@ -1,0 +1,257 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+  }
+  #footer {
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;    /* altura de pie de página */
+  }
+  
+  .footer-content {
+      color: #fff;
+      text-align: center;
+      padding: 0.5rem;
+  }
+
+  .navbar {
+    background-color: #050505;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  .navbar ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .navbar ul li {
+    margin: 0 1rem;
+  }
+  
+  .navbar ul li a {
+    color: #ebedb3;
+    text-decoration: none;
+    padding: 0.5rem;
+  }
+  
+  .navbar ul li a:hover {
+    background-color: #555;
+  }
+  
+  #logoutBtn {
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+    width: 120px;
+    height: 38px;
+    margin-right: 1.3rem;
+    font-family: sans-serif;
+    font-size: 15px;
+  }
+
+main {
+  padding: 3.8rem;
+  position: relative;
+  background-image: url(../assets/images/fondohome\ \(2\).png);
+  background-size: cover;
+  background-position: center;
+}
+
+.profile-user {
+    background-color: #eaeaea;
+    margin-top: 12rem;
+    padding: 2.5rem;
+    float: left;
+    width: 380px;
+    height: 600px;  
+}
+
+.profile-info {
+  background-color: #f4f4f4; /* Color de fondo más claro para un aspecto limpio */
+  padding: 2rem;
+  margin-bottom: 2rem;
+  margin-left: 33%;
+  float: center;
+  width: 800px;
+  height: auto; /* Ajuste automático de la altura */
+  border-radius: 8px; /* Bordes redondeados para un diseño más suave */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para un efecto de profundidad */
+  text-align: center; /* Centrar el texto del encabezado */
+}
+
+.profile-info .infotext {
+  font-size: 2rem; /* Tamaño de fuente más grande para el encabezado */
+  color: #333; /* Color del texto del encabezado */
+  margin-bottom: 1rem; /* Espaciado inferior del encabezado */
+}
+
+.profile-info form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-info label {
+  display: block;
+  margin: 0.5rem 0 0.2rem 0;
+  font-size: 1rem;
+  color: #666; /* Color del texto de las etiquetas */
+}
+
+.profile-info input[type="text"],
+.profile-info input[type="tel"] {
+  width: 80%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+  background-color: #fff;
+}
+
+.profile-info button {
+  padding: 0.7rem 1.5rem;
+  margin-top: 1rem;
+  border: none;
+  border-radius: 20px;
+  background-color: #007bff; /* Color de fondo del botón */
+  color: #fff; /* Color del texto del botón */
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.profile-info button:hover {
+  background-color: #0056b3; /* Color del fondo del botón al pasar el cursor */
+}
+
+.profile-resume {
+    background-color: #eaeaea;
+    padding: 2rem;
+    margin-left: 33%;
+    float: center;
+    width: 800px;
+    height: 650px;
+}
+
+#info-container p {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-align:justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.profile-resume h2 {
+    font-size: 2rem;
+    margin-bottom: 8px;
+    text-align:justify;
+    margin-left: 30%;
+}
+
+.profile-resume button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 82%;
+    border-radius: 20px;
+}
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+
+.profile-user{
+  background-color: rgb(188, 188, 188);
+}
+
+.profile-user h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#profile-image{
+  display: block;
+  background-color: skyblue;
+  border-radius: 25%;
+  width: 300px;
+  height: 250px;
+}
+
+#user-img {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 13%;
+  margin-top: 7%;
+  width: 75%;
+  height: 85%;
+  border-radius: 45%;
+}
+
+#user-name {
+  margin-top: 25%;
+  margin-left: 3%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#user-email {
+  margin-top: 8%;
+  margin-left: 3%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#upload-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+#upload-img-container label {
+  color: whitesmoke;
+  background-color: hsl(318, 75%, 51%);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+}
+
+#upload-img-container label:hover {
+  background-color:hsl(318, 75%, 61%);
+  cursor: pointer
+}
+
+#upload-img-container input {
+  display: none;
+}
+
+#upload-img-container button {
+  background-color: #ff0000;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+#upload-img-container button:hover {
+  background-color: #ff4d4d;
+}

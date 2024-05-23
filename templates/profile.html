@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/styles/profile-style.css">
+    <title>Profile</title>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul>
+            <li><a href="/">Inicio</a></li>
+            <!-- SECCION LOCAL PARA LAS BUSQUEDAS-->
+            <li><a href="/app">Buscar</a></li>
+            <!-- SECCION LOCAL PARA EL PERFIL DEL USUARIO-->
+            <li><a href="/profile">Perfil</a></li>
+            <!-- SECCION LOCAL PARA CERRAR SESION-->
+            <li>
+                <form action="/logout" method="post">
+                    <button type="submit" id="logoutBtn">Cerrar sesión</button>
+                </form>
+            </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+            <section class="profile-user">
+                <h1>PERFIL</h1>
+                <div id="profile-image">
+                    <img src="{{ url_for('get_user_img', email=session['email']) }}" alt="user Img" id="user-img">
+                </div>
+                <div class="hidden" id="upload-img-container">
+                    <form class="hidden" id="uploadImageForm" enctype="multipart/form-data">
+                        <label for="fileInput">Seleccionar Imagen</label>
+                        <input type="file" id="fileInput" accept=".jpg, .jpeg, .png" multiple="false">
+                        <button type="button" id="uploadImageButton">Subir</button>
+                    </form>
+                </div>                
+                <div id="profile-user-info">
+                    <p id="user-name">Nombre: <span >{{ session['name'] }}</span></p>
+                    <p id="user-email">Correo: <span >{{ session['email'] }}</span></p>
+            </section>
+            <section class="profile-info">
+                <h2 class="infotext">Informacion</h2>
+                <div id="edit-info-container" class="hidden">
+                    <form>
+                        <label for="name">Nombre</label>
+                        <input type="text" id="name" name="name" placeholder="Nombre">
+                        <label for="phone">Telefono</label>
+                        <input type="tel" id="phone" name="phone" placeholder="Telefono">
+                        <label for="address">Direccion</label>
+                        <input type="text" id="address" name="address" placeholder="Direccion">
+                        <label for="ocupation">Ocupacion</label>
+                        <input type="text" id="ocupation" name="ocupation" placeholder="Ocupacion">
+                        <button type="submit">Guardar</button>
+                    </form>
+                </div>
+                <div id="info-container" class="visible">
+                    <p>Nombre: <span id="name-content"></span></p>
+                    <p>Correo: <span id="email-content"></span></p>
+                    <p>Telefono: <span id="phone-content"></span></p>
+                    <p>Direccion: <span id="address-content"></span></p>
+                    <p>Ocupacion: <span id="ocupation-content"></span></p>
+                    <button id="editBtn">Editar</button>
+                </div>                                               
+            </section>
+            <section class="profile-resume">
+                <div class="hidden" id="cv-form">               
+                    <h2>Editar CV</h2>
+                    <form id="uploadForm" enctype="multipart/form-data">
+                        <label for="fileInputCv">Seleccionar Archivo para subir</label>
+                        <input type="file" name="file" id="fileInputCv" accept=".pdf" multiple="false">
+                        <button type="button" id="uploadButton">Subir CV</button>
+                        <button type="button" id="cancelButton">Cancelar</button>
+                    </form>      
+                </div>
+                <div class="visible" id="cv-container">
+                    <h2>Curriculum</h2>
+                    <hr>
+                    <embed id="cv" src="{{ url_for('get_cv', email=session['email']) }}" type="application/pdf" width="600px" height="500px"/>
+                    <button id="editCvBtn">Editar</button>
+                </div>                
+            </section>
+    </main>
+    <footer id="footer">
+        <div class="footer-content">
+            <span>&copy; 2024 EYC. Todos los derechos reservados.</span>
+        </div>
+    </footer>
+
+    <script src="../static/js/app-profile.js"></script>
+</body>
+</html>
